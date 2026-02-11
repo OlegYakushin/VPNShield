@@ -1,0 +1,7 @@
+# fastlane/Appfile
+app_identifier("jamesphilip.shield.com")
+
+data[:scheme] = "VPNShield"
+data[:target] = "VPNShield"
+
+data[:asc_issuer_id] = "b11489b3-eb59-4f81-a23f-b6d27290f005"
